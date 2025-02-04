@@ -20,6 +20,7 @@ _CGPA: 3.96_
 
 **Heart Disease Prediction**  
 Developed a machine learning model predicting heart disease risk using BRFSS data, addressing class imbalance with SMOTE. Selected Logistic Regression for high recall, optimized via Grid Search. Built a Streamlit app for user-friendly health parameter input and predictive insights.
+<img src="images/heart_project.png?raw=true" />
 
 **Portfolio Optimization Dashboard**
 This Stock Portfolio Optimization Calculator uses advanced optimization techniques to improve portfolio performance. Built with Streamlit, it offers an intuitive interface and interactive visualizations of the efficient frontier and key metrics, making portfolio analysis accessible and user-friendly
