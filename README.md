@@ -31,6 +31,11 @@ Developed a machine learning model predicting heart disease risk using BRFSS dat
 ## Portfolio Optimization Dashboard   
 This Stock Portfolio Optimization Calculator uses advanced optimization techniques to improve portfolio performance. Built with Streamlit, it offers an intuitive interface and interactive visualizations of the efficient frontier and key metrics, making portfolio analysis accessible and user-friendly
 
+<img src="images/portfolio_opt1.png?raw=true" />
+<img src="images/portfolio_opt2.png?raw=true" />
+
+
+
 ## Analysis of Economic Variables on Nifty   
 This project analyses the impact of domestic and global GDP factors on NIFTY and Bank NIFTY indices using econometric and data science techniques. It employs feature engineering, causality analysis, and advanced ensemble models like XGBoost to predict stock index movements effectively.
 
