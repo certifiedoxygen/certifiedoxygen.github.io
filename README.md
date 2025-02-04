@@ -20,8 +20,10 @@ _CGPA: 3.96_
 ---
 ### Heart Disease Prediction     
 Developed a machine learning model predicting heart disease risk using BRFSS data, addressing class imbalance with SMOTE. Selected Logistic Regression for high recall, optimized via Grid Search. Built a Streamlit app for user-friendly health parameter input and predictive insights.
-<img src="images/heart_project.png?raw=true" />
-<img src="images/target_correlation_plot.png?raw=true"/>
+<div style="display: flex; align-items: center; gap: 10px;">
+  <img src="images/heart_project.png?raw=true" style="height: 300px;" />
+  <img src="images/target_correlation_plot.png?raw=true" style="height: 300px;" />
+</div>
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
 [View Code](https://github.com/certifiedoxygen/Heart-Disease-Prediction-Project)  
