@@ -21,7 +21,10 @@ _CGPA: 3.96_
 ### Heart Disease Prediction     
 Developed a machine learning model predicting heart disease risk using BRFSS data, addressing class imbalance with SMOTE. Selected Logistic Regression for high recall, optimized via Grid Search. Built a Streamlit app for user-friendly health parameter input and predictive insights.
 <img src="images/heart_project.png?raw=true" />
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+[![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)][![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)][![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)]
+
+[View Code](https://github.com/certifiedoxygen/Heart-Disease-Prediction-Project)
+[Project Link](https://certifiedoxygen-heart-disease-prediction-project-app-nmkxm2.streamlit.app/)
 
 ## Portfolio Optimization Dashboard   
 This Stock Portfolio Optimization Calculator uses advanced optimization techniques to improve portfolio performance. Built with Streamlit, it offers an intuitive interface and interactive visualizations of the efficient frontier and key metrics, making portfolio analysis accessible and user-friendly
